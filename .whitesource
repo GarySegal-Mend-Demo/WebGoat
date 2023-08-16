@@ -5,6 +5,6 @@
   },
   "scanSettingsSAST": {
     "enableSAST": "true",
-    "enableSASTRemediation": true
+    "enableSASTRemediation": "true"
   }
 }
