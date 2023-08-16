@@ -1,0 +1,10 @@
+{
+  "settingsInheritedFrom": "GarySegal-Mend-Demo/whitesource-config@main",
+  "scanSettings": {
+      "enableReachability": true
+  },
+  "scanSettingsSAST": {
+    "enableSAST": "true",
+    "enableSASTRemediation": true
+  }
+}
